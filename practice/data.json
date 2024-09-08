@@ -1,0 +1,43 @@
+{
+    "Universities": [
+        {
+            "name": "UTCN",
+            "profile": [
+                {
+                    "name": "Informatics",
+                    "id": 222,
+                    "student": [
+                        {
+                            "name": "Paul David",
+                            "email": "pauldavid@yahoo.com\\",
+                            "id": 111
+                        }
+                    ],
+                    "teacher": []
+                }
+            ]
+        }
+    ],
+    "Profiles": [
+        {
+            "name": "Informatics",
+            "id": 222,
+            "student": [
+                {
+                    "name": "Paul David",
+                    "email": "pauldavid@yahoo.com\\",
+                    "id": 111
+                }
+            ],
+            "teacher": []
+        }
+    ],
+    "Students": [
+        {
+            "name": "Paul David",
+            "email": "pauldavid@yahoo.com\\",
+            "id": 111
+        }
+    ],
+    "Teachers": []
+}

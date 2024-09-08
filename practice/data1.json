@@ -1,0 +1,49 @@
+{
+    "Universities": [
+        {
+            "name": "UTCN",
+            "profile": [
+                {
+                    "name": "Informatics",
+                    "id": 222,
+                    "student": [
+                        {
+                            "name": "Paul David",
+                            "email": "pauldavid@yahoo.com",
+                            "id": "s111"
+                        },
+                        {
+                            "name": "Paul Ioan",
+                            "email": "paulioan@Yahoo.com",
+                            "id": "s112"
+                        }
+                    ],
+                    "teacher": [
+                        {
+                            "name": "Larisa Patcas",
+                            "email": "laripatcas@yahoo.com",
+                            "id": 333
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "UBB",
+            "profile": [
+                {
+                    "name": "Mathematics",
+                    "id": 333,
+                    "student": [
+                        {
+                            "name": "Sorin David",
+                            "email": "sorindavid@yahoo.com",
+                            "id": "113"
+                        }
+                    ],
+                    "teacher": []
+                }
+            ]
+        }
+    ]
+}
